@@ -1,0 +1,6 @@
+{
+  "name": "Al-Furqaan Donations",
+  "description": "Donation tracker, monthly pledge ledger, and fiscal year analytics for Al-Furqaan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
